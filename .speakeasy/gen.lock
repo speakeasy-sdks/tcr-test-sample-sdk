@@ -3,10 +3,10 @@ id: c112fa2b-97ca-4f8d-b14f-047a2cfa1187
 management:
   docChecksum: abbc3a8faac54f76013e5d509a8d11ec
   docVersion: 1.0.0
-  speakeasyVersion: 1.221.0
-  generationVersion: 2.287.0
-  releaseVersion: 0.7.0
-  configChecksum: 95a9a4403e78a527c079b56463d074fa
+  speakeasyVersion: 1.227.0
+  generationVersion: 2.291.0
+  releaseVersion: 0.7.1
+  configChecksum: 566b7799c7962898558db86cf0e1dc2e
   repoURL: https://github.com/speakeasy-sdks/tcr-test-sample-sdk.git
   repoSubDirectory: .
   installationURL: https://github.com/speakeasy-sdks/tcr-test-sample-sdk
@@ -14,7 +14,7 @@ management:
 features:
   go:
     callbacks: 1.0.0
-    core: 3.4.4
+    core: 3.4.5
     devContainers: 2.90.0
     errors: 2.81.8
     examples: 2.81.3
